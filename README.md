@@ -1,4 +1,4 @@
-# 批量删除Github中的仓库（JavaScript版本）
+# 批量删除无用的github仓库（JavaScript版本）
 
 ## 开始使用
 
